@@ -12,6 +12,7 @@ By clicking on Server tag and then add Tomcat to the build path by pointing to t
 # Run the index.jsp file by right click on it and run as -> Run as Server
 You will see your simple web page with localhost:8080/webapp/index.jsp
 # Copy the webapp.war which is at the target folder into the Tomcat server webapp folder will do. 
+Now, you can fire up your browser by going to Host_IP_Address:8080/webapp to view your web site.
 
 
 
